@@ -10,4 +10,4 @@ the hypothesis space and explore alternative computations of
 lambda. Our results show that the perceived complexity of the
 hypothesis space seems to influence human decision-making.
 ![image](https://github.com/allenhuang7008/Modeling-Priors-in-Bayesian-Inference-Insights-from-a-Number-Game-Experiment/assets/37057484/5c1dbd69-344f-4613-9085-2a8845ec56dc)
-human survey results
+                                                                      human survey results
